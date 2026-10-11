@@ -1,0 +1,1 @@
+# Rede-Neural-IA-Lei-Fourier
